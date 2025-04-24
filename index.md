@@ -4,6 +4,10 @@
 layout: default
 ---
 
+<p align="center">
+  <img src="/banner.png" alt="Banner" width="800"/>
+</p>
+
 # Hi, I'm **류찬영**
 
 E-Mail: lyu2525@gmail.com · GitHub: [Ryu-February](https://github.com/Ryu-February)
@@ -52,3 +56,4 @@ ArduCam 기반 설계 및 제어
 ---
 
 <small>© 2025 Designed & Developed by Ryu-February · Built with Jekyll & GitHub Pages</small>
+```
