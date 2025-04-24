@@ -1,0 +1,17 @@
+## 1. _config.yml
+```yaml
+# 사이트 전역 설정
+title: "Hi, I'm 류찬영"
+description: "임베디드·펌웨어·리눅스 드라이버 개발자"
+url: "https://ryu-february.github.io"
+baseurl: ""  # 루트 경로
+
+author:
+  name: "류찬영"
+  email: "lyu2525@gmail.com"
+
+theme: jekyll-theme-cayman
+
+github:
+  username: Ryu-February
+```
